@@ -21,6 +21,6 @@
   },
   "dependencies": {
     "@babel/polyfill": "^7.4.3",
-    "lodash": "^4.17.14"
+    "lodash": "^4.17.13"
   }
 }
